@@ -2,7 +2,6 @@
 
 Čestitam uspijela/uspio si 
 
-kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci
 
 dekriptiraj ovo 1146319749 na isti način kako si napravila/napravio na ploči i znat ćeš tko sam ili nemoras možda je bolje da se ne zna tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc i onda nije vise zabavno)
 
@@ -24,7 +23,7 @@ također ako imas neke case-ove gotove iz OF bio bi jako sretan jer ce mi to ubr
 
 imam puno pitanja i nejasnoca molim te imaj strpljanja samnom
 
-
+kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci
 
 33-44-369-1111 / 1146319749
 
