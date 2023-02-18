@@ -13,7 +13,7 @@ Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/sp
 
 ovo radim jer mislim da će me ovo spasiti od vječnog sna..."čitaj između redova"
 
-kada is dekriptira-la/o napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci 
+kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci 
 
 Također učim c++ da bi bolje razumio FOAM, molio bih te da mi pomogneš oko ucenja, razumjevanja i debagiranja algoritama i programa koje cu stavljati u git-repo
 
@@ -23,7 +23,7 @@ imam puno pitanja i nejasnoca molim te imaj strpljanja samnom
 
 
 
-33443691111-1146319749
+33-44-369-1111 / 1146319749
 
 
 PS: 
