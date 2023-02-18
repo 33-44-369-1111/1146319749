@@ -9,3 +9,7 @@ Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/sp
 ovo radim jer mislim da će me ovo spasiti od vječnog sna...
 
 kada is dekriptira-la/o napisi ovo "1146319749" na plocu da znam ako je netko uspio. 
+
+također ucim c++ pa mozes mi pomoci oko ucenja i debagiranja programa kojih cu stavljati gore
+
+imam puno pitanja i nejasnoca
