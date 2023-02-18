@@ -5,7 +5,7 @@
 dekriptiraj ovo 1146319749 na isti način kako si napravi-la/o na ploči i znat ćeš tko sam ili nemoras možda je bolje da se neznam tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc) 
 
 ovo radim da se mozemo dopisiavati preko README.md, treba mi pomoć, neznam kako bi reko ono što mi je u glavi,...,ako si voljna/voljan pricati samnom i pomoći mi,
-Hvala Ti tko god da bio/bila :-).
+Hvala Ti tko god da bila/bio :-).
 
 možeš me pitati da ti nešto pomognem napraviti, npr mozes mi dati problem i mogu doci do rješenja tog problema.
 Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/spreman na dodatna pitnaja koja cu postavljati da mogu lakse doći do rješenja 
