@@ -2,18 +2,21 @@
 
 Čestitam uspijela/uspio si 
 
-dekriptiraj ovo 1146319749 na isti način kako si napravi-la/o na ploči i znat ćeš tko sam ili nemoras možda je bolje da se neznam tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc) 
+kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci
 
-ovo radim da se mozemo dopisiavati preko README.md, treba mi pomoć, neznam kako bi reko ono što mi je u glavi,...,ako si voljna/voljan pricati samnom i pomoći mi,
+dekriptiraj ovo 1146319749 na isti način kako si napravila/napravio na ploči i znat ćeš tko sam ili nemoras možda je bolje da se neznam tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc i onda nije vise zabavno)
+
+ovo radim da se mozemo dopisiavati preko README.md, treba mi pomoć, neznam kako bi reko ono što mi je u glavi,...,ako si voljna/voljan pricati samnom i pomoći mi ?
+
 Hvala Ti tko god da bila/bio :-).
 
-možeš me pitati da ti nešto pomognem napraviti (kao za vježbu krenemo od jednostavnijh primjera prema kompliciranijim), npr. mozes mi dati problem i mogu doci do rješenja tog problema.
+Možeš me pitati da ti nešto pomognem napraviti (kao za vježbu krenemo od jednostavnijh primjera prema kompliciranijim), npr. mozes mi dati problem i mogu doci do rješenja tog problema.
 
 Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/spreman na dodatna pitnaja koja cu postavljati da mogu lakse doći do rješenja 
 
-ovo radim jer mislim da će me ovo spasiti od vječnog sna..."čitaj između redova"
+Ovo radim jer mislim da će me ovo spasiti od vječnog sna..."čitaj između redova"
 
-kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci 
+ 
 
 Također učim c++ da bi bolje razumio FOAM, molio bih te da mi pomogneš oko ucenja, razumjevanja i debagiranja algoritama i programa koje cu stavljati u git-repo
 
@@ -43,20 +46,25 @@ III. Kada radim CFD sim. za nesto što se rotira npr .ventilator, primitivna rje
 off-topic pitanja:
 
 1. Vjerujes li u njih, kada kazem njih mislim na bića koja nisu sa ovog planeta ?
-  3344369111: Da
+ 
+ 3344369111: Da
 
 2. Koju muziku preferiras ?
+  
   3344369111: nemam neki opći ukus muzike ako mi pase uhu onda cu slušati, ali u principu ako dobro zvuci nemoze biti lose 
 
 3.Što ti je draže kava, čaj ili ništa ?
-  3344369111: volim i kavu i čaj, mogu nepiti nista kao je nužno. 
+ 
+ 3344369111: volim i kavu i čaj, mogu nepiti nista kao je nužno. 
   (najdraza mi je voda H2O, dali za vodu mozemo reci da je vise mazivo nego gorivo našeg biomehaničkog robota u kojem se nalazimo ?)
 
 4. Kakve knjige čitas ?
+  
   3344369111: Volim čitati sve, imam pravilo ako me knjiga nezainteresia prvih 50 strana onda je nečitam jer je dosadan, procitao sam jako puno tehnicke literature msm   da imam problem sa prenaučenosti (govorim u smislu strojnog ucenja jer mi je tako najlakse objansiti).
 
 5. Da li bi rađe imala/imao moći da kontorliraš vrijeme ili prostor ?
-  3344369111: you first :-).
+ 
+ 3344369111: you first :-).
 
 6. Dali se slažeš samnom da je novac kao novac  teška prevara koja se koristi da bi se radna klasa lakse kontrolirala,(jer novac je samo papir koji nekad imas nekad nemas, sta mislis koje su vjerovatnosti da si u jendom trenutku imala/imao istu novčanicu koju si držala/držao u rukama prije 10god) ?
 
