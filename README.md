@@ -22,7 +22,7 @@ imam puno pitanja i nejasnoca molim te imaj strpljanja samnom
 
 kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci
 
-33-44-369-1111 / 1146319749
+1146319749
 
 
 PS: 
