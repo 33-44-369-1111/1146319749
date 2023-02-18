@@ -4,7 +4,7 @@
 
 kada is dekriptirala/dekriptirao napisi ovo "1146319749" na plocu da znam ako je netko uspio i ako si voljna/voljan pomoci
 
-dekriptiraj ovo 1146319749 na isti način kako si napravila/napravio na ploči i znat ćeš tko sam ili nemoras možda je bolje da se neznam tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc i onda nije vise zabavno)
+dekriptiraj ovo 1146319749 na isti način kako si napravila/napravio na ploči i znat ćeš tko sam ili nemoras možda je bolje da se ne zna tko sam (plus trebati ključ, ali i dalje nemoj otkrivati tko sam jer ces vjv skuziti koji je kljuc i onda nije vise zabavno)
 
 ovo radim da se mozemo dopisiavati preko README.md, treba mi pomoć, neznam kako bi reko ono što mi je u glavi,...,ako si voljna/voljan pricati samnom i pomoći mi ?
 
