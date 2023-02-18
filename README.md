@@ -7,7 +7,8 @@ dekriptiraj ovo 1146319749 na isti način kako si napravi-la/o na ploči i znat 
 ovo radim da se mozemo dopisiavati preko README.md, treba mi pomoć, neznam kako bi reko ono što mi je u glavi,...,ako si voljna/voljan pricati samnom i pomoći mi,
 Hvala Ti tko god da bila/bio :-).
 
-možeš me pitati da ti nešto pomognem napraviti, npr mozes mi dati problem i mogu doci do rješenja tog problema.
+možeš me pitati da ti nešto pomognem napraviti (kao za vježbu krenemo od jednostavnijh primjera prema kompliciranijim), npr. mozes mi dati problem i mogu doci do rješenja tog problema.
+
 Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/spreman na dodatna pitnaja koja cu postavljati da mogu lakse doći do rješenja 
 
 ovo radim jer mislim da će me ovo spasiti od vječnog sna..."čitaj između redova"
@@ -22,10 +23,10 @@ imam puno pitanja i nejasnoca molim te imaj strpljanja samnom
 
 
 
-33443691111
+33443691111-1146319749
 
 
-ps: 
+PS: 
 primjeri glupih pitanja: 
 
 I. Kako mogu primjenti strojno učenje na području energetike, recimo u smislu data analasys, kakvi podaci se mogu promatrati da bi se odredila "funkcija" koja bi opisivala said podatke ?
