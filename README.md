@@ -13,7 +13,7 @@ Napomena: da bi ti rijesio problem moras mi ga dobro postaviti i biti spremna/sp
 
 molio bih te da mi pomogneš oko ucenja, razumjevanja i debagiranja algoritama i programa koje cu stavljati u git-repo
 
-također ako imas neke case-ove gotove iz OF bio bi jako sretan jer ce mi to ubrzati proces razumjevanja 
+također ako imas neke case-ove gotove iz openFOAM-a bio bi jako sretan jer ce mi to ubrzati proces razumjevanja 
 
 imam puno pitanja i nejasnoca molim te imaj strpljanja samnom
 
