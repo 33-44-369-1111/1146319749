@@ -70,3 +70,37 @@ Volim čitati sve, imam pravilo ako me knjiga nezainteresia prvih 50 strana onda
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Želim  se ubit, tereapije ne djeluju, ljekovi ne pomazu
