@@ -101,6 +101,3 @@ Volim čitati sve, imam pravilo ako me knjiga nezainteresia prvih 50 strana onda
 
 
 
-
-
-Želim  se ubit, terapije ne djeluju
